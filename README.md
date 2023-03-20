@@ -1,1 +1,1 @@
-# Basic-Guessing-Game
+# Basic guessing game made using Tkinter in Python
